@@ -43,7 +43,6 @@ public class Game extends Canvas implements Runnable{
 				render();
 				delta--;
 			}
-				
 		}
 		stop();
 	}
